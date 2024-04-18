@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Africa/Lagos
+X-LIC-LOCATION:Africa/Lagos
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:WAT
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Lagos:20230119T100000
+DTEND;TZID=Africa/Lagos:20230119T120000
+DTSTAMP:20230118T190253Z
+ORGANIZER;CN=nithub-trainings@unilag.edu.ng:mailto:nithub-trainings@unilag.
+ edu.ng
+UID:4cc9m85ta4nul5nqnh663h2543@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=olumideajayi2006@gmail.com;X-NUM-GUESTS=0:mailto:olumideajayi2006@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=oyeniranshock@gmail.com;X-NUM-GUESTS=0:mailto:oyeniranshock@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adedejitobiloba7@gmail.com;X-NUM-GUESTS=0:mailto:adedejitobiloba7@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=nithub-trainings@unilag.edu.ng;X-NUM-GUESTS=0:mailto:nithub-trainings@u
+ nilag.edu.ng
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=V Odumuyiwa;X-NUM-GUESTS=0:mailto:vodumuyiwa@unilag.edu.ng
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=davidokunoye003@gmail.com;X-NUM-GUESTS=0:mailto:davidokunoye003@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=meet.kingsleyvictor@gmail.com;X-NUM-GUESTS=0:mailto:meet.kingsleyvi
+ ctor@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lawansonolujinmi@gmail.com;X-NUM-GUESTS=0:mailto:lawansonolujinmi@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dammyfrosh290@gmail.com;X-NUM-GUESTS=0:mailto:dammyfrosh290@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=omoregbeeho@gmail.com;X-NUM-GUESTS=0:mailto:omoregbeeho@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=tomiwabanjo57@gmail.com;X-NUM-GUESTS=0:mailto:tomiwabanjo57@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=emmanuelobiechina8@gmail.com;X-NUM-GUESTS=0:mailto:emmanuelobiechin
+ a8@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=olayinkatreasure123@gmail.com;X-NUM-GUESTS=0:mailto:olayinkatreasur
+ e123@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=umoruprince100@gmail.com;X-NUM-GUESTS=0:mailto:umoruprince100@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=talk2obi007@yahoo.com;X-NUM-GUESTS=0:mailto:talk2obi007@yahoo.com
+X-MICROSOFT-CDO-OWNERAPPTID:-1517862698
+CREATED:20230118T190211Z
+DESCRIPTION:Dear All\,<br><br>I hope we are doing great.<br><br>Please cons
+ ider this a gentle reminder regarding the Frontend Development class.<br><b
+ r><b>What we are going to cover\;</b><span> </span><br><ol><li><span>Overvi
+ ew of assignment </span></li><li><span>Linking html file to external files 
+ like css</span></li><li><span>Form\, input and label tags</span></li></ol><
+ b>Venue: </b>Nithub\, Board Room<br><b>Time:</b> 10am - 12pm<br><br>Don't m
+ iss it for anything!
+LAST-MODIFIED:20230118T190251Z
+LOCATION:6 Commercial Rd\, University Of Lagos 101245\, Lagos\, Nigeria
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:A Gentle Reminder NITDEV 2.1:  Frontend Development Class 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
